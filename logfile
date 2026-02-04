@@ -1,0 +1,2 @@
+2026-02-03 19:14:34.680 MSK [71252] FATAL:  lock file "postmaster.pid" already exists
+2026-02-03 19:14:34.680 MSK [71252] HINT:  Is another postmaster (PID 71240) running in data directory "/Users/affiliation/.brew/var/postgresql@14"?
